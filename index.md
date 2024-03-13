@@ -27,7 +27,7 @@ My research interests lies in generative models and their applications in medica
 
 ## First-Author Publications
 
-1. **Z. Song**, P. Du, J. Yan, K. Li, J. Shou, M. Lai, Y. Fan, and Y. Xu, “Nucleus-aware Self-supervised Pretraining Using Unpaired Image-to-image Translation for Histopathology Images,” *IEEE Transactions on Medical Imaging*, 2024, 43(1): 459-472.
-2. **Z. Song**, X. Wang, X. Zhao, S. Wang, Z. Shen, Z. Zhuang, M. Liu, Q. Wang, L. Zhang, “Alias-Free Co-modulated Network for Cross-modality Synthesis and Super-resolution of MR Images,” *MICCAI Early Accept*, 2023.
+1. **Z. Song**, P. Du, J. Yan, K. Li, J. Shou, M. Lai, Y. Fan, and Y. Xu, “Nucleus-aware Self-supervised Pretraining Using Unpaired Image-to-image Translation for Histopathology Images,” *IEEE Transactions on Medical Imaging*, 2024, 43(1): 459-472. ([Paper](https://ieeexplore.ieee.org/document/10234386))([Code](https://github.com/zhiyuns/UNITPathSSL))
+2. **Z. Song**, X. Wang, X. Zhao, S. Wang, Z. Shen, Z. Zhuang, M. Liu, Q. Wang, L. Zhang, “Alias-Free Co-modulated Network for Cross-modality Synthesis and Super-resolution of MR Images,” *MICCAI Early Accept*, 2023. ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_7))([Code](https://github.com/zhiyuns/AFCM))
 3. X. Wang<sup>#</sup>, **Z. Song<sup>#</sup>**, Y. Zhu, S. Wang, L. Zhang, D. Shen, Q. Wang, “Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning,” *ISBI*, 2024.
-4. **Z. Song**, Z. Qi, X. Wang, X. Zhao, Z. Shen, S. Wang, M. Fei, Z. Wang, D. Zang, D. Chen, L. Yao, Q. Wang, X. Wu, L. Zhang, “Uni-COAL: A Unified Framework for Cross-modality Synthesis and Super-resolution of MR Images,” *Pattern Recognition (under review)*, 2024.
+4. **Z. Song**, Z. Qi, X. Wang, X. Zhao, Z. Shen, S. Wang, M. Fei, Z. Wang, D. Zang, D. Chen, L. Yao, Q. Wang, X. Wu, L. Zhang, “Uni-COAL: A Unified Framework for Cross-modality Synthesis and Super-resolution of MR Images,” *Pattern Recognition (under review)*, 2024. ([Paper](https://arxiv.org/abs/2311.08225))
