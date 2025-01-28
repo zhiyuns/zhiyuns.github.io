@@ -21,7 +21,7 @@ profile_picture:
 ## Biography
 
 I am currently a Master student in [School of Biomedical Engineering](https://bme.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China. I received my Bachelor’s degree from [Beihang University](https://www.buaa.edu.cn/), Beijing, China, in June 2021, and was awarded Outstanding Graduate of Beihang University.
-I worked as a research intern in [Deepwise](https://www.deepwise.com/) from December 2021 to June 2022.
+I worked as a research intern in [Deepwise](https://www.deepwise.com/) from December 2021 to June 2022, and currently work at [Alibaba DAMO Academy](https://damo.alibaba.com/?lang=en). 
 I joined [Medical Image Computing Lab](https://mic.sjtu.edu.cn/) in Fall 2022, under the supervision of Dr. Lichi Zhang.  
 My research interests lies in generative models and their applications in medical image analysis, including self-supervised learning, modality synthesis and super-resolution in medical images. I am also working on the development of multi-modal analysis, segmentation, and pretraining algorithms for medical images.
 
