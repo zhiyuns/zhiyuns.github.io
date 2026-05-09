@@ -4,6 +4,8 @@ title: Publications
 slug: /publications
 ---
 
+- M. Fei, **Z. Song**, Z. Shen, M. Liu, Q. Wang, L. Zhang, “UFFL: Bridging Slide-and Cell-Level Annotations via Unified Feature Fusion Learning for Cervical Cancer Screening,” *Information Fusion*, 2026, 135: 104427. ([Paper](https://www.sciencedirect.com/science/article/pii/S1566253526003064))
+- X. Zhao, S. Wang, **Z. Song**, Z. Shen, L. Yao, H. Yuan, Q. Wang, L. Zhang, “AdLER: Adversarial training with label error rectification for one-shot medical image segmentation,” *Expert Systems with Applications*, 2026, 310: 131224. ([Paper](https://www.sciencedirect.com/science/article/pii/S0957417426001387))([Code](https://github.com/hsiangyuzhao/AdLER))
 - **Z. Song**, Z. Qi, X. Wang, X. Zhao, Z. Shen, S. Wang, M. Fei, Z. Wang, D. Zang, D. Chen, L. Yao, Q. Wang, X. Wu, L. Zhang, “Uni-COAL: A Unified Framework for Cross-modality Synthesis and Super-resolution of MR Images,” *Expert Systems with Applications*, 2025, 270: 126241. ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424031087))([Code](https://github.com/zhiyuns/UniCOAL))
 - M. Fei<sup>#</sup>, **Z. Song<sup>#</sup>**, Z. Shen, M. Liu, Q. Wang, L. Zhang, “Weakly Semi-supervised Cervical Lesion Cell Detection via Twin-Memory Augmented Multiple Instance Learning,” *MICCAI*, 2025. ([Paper](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_61))
 - R. Wang, Z. Chen, **Z. Song**, W. Fang, J. Zhang, D. Tu, Y. Tang, M. Xu, X. Ye, L. Lu, D. Jin, “Anatomy-Aware Low-Dose CT Denoising via Pretrained Vision Models and Semantic-Guided Contrastive Learning,” *MICCAI*, 2025. ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_34))
